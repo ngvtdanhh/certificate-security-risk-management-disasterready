@@ -45,7 +45,7 @@ This repository documents my learning and application of concepts from the **"Se
 
 | Description             | Screenshot                                   |
 |-------------------------|-----------------------------------------------|
-| 📘 Course Introduction   | ![](./screenshots/disaready-course.png)       |
+| 📘 Course Introduction   | ![](./screenshots/disaready-cousre.png)       |
 | 📚 Curriculum Overview   | ![](./screenshots/disaready-curriculum.png)   |
 
 ---
