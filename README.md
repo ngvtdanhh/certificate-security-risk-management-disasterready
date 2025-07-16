@@ -3,72 +3,73 @@
 ![Course](https://img.shields.io/badge/DisasterReady-Certified-brightgreen?style=flat-square&logo=cloudflare)
 ![Status](https://img.shields.io/badge/Status-Completed-blue?style=flat-square&logo=checkmarx)
 ![Type](https://img.shields.io/badge/Type-Self--Study-orange?style=flat-square&logo=readthedocs)
-![Focus](https://img.shields.io/badge/Focus-Risk%20Management%20&%20NGO%20Security-informational?style=flat-square&logo=security)
+![Focus](https://img.shields.io/badge/Focus-Risk%20Management%20%26%20Humanitarian%20Security-informational?style=flat-square&logo=security)
 ![Author](https://img.shields.io/badge/Maintainer-Thành%20Danh-blueviolet?style=flat-square&logo=github)
 
-This repository documents my learning journey through the **"Security Risk Management Essentials"** course by [DisasterReady.org](https://www.disasterready.org). It includes structured notes, demo reports, security frameworks, and certification evidence.
+This repository documents my learning and application of concepts from the **"Security Risk Management Essentials"** course offered by [DisasterReady.org](https://www.disasterready.org). It includes topic-based notes, practical simulations, response protocols, certificate, and screenshots.
 
 ---
 
 ## 📜 Certificate
 
-- 🎓 [Security Risk Management – Certificate](./cert/security-risk-disasterready.pdf)
+- 🎓 [`security-risk-disasterready.pdf`](./cert/security-risk-disasterready.pdf)
 
 ---
 
-## 🧠 Course Notes (`notes/`)
+## 🧠 Notes (`notes/`)
 
-- [`risk-assessment-models.md`](./notes/risk-assessment-models.md) – Qualitative vs. quantitative models  
-- [`humanitarian-contexts.md`](./notes/humanitarian-contexts.md) – Special concerns in NGO field operations  
-- [`risk-communication-strategy.md`](./notes/risk-communication-strategy.md) – Stakeholder communication & approval flow  
+- [`context-assessment.md`](./notes/context-assessment.md) – How environment affects security risk  
+- [`ethics-and-accountability.md`](./notes/ethics-and-accountability.md) – Humanitarian principles & responsibility  
+- [`risk-management-cycle.md`](./notes/risk-management-cycle.md) – Process of identifying, evaluating, and mitigating risk  
+- [`security-planning.md`](./notes/security-planning.md) – Mission security planning phases  
+- [`threats-and-vulnerabilities.md`](./notes/threats-and-vulnerabilities.md) – Common threats in NGO operations  
 
 ---
 
-## 🛠️ Demo Reports (`demo/`)
+## 🧪 Practical Demos (`demo/`)
 
-- [`field-risk-log.md`](./demo/field-risk-log.md) – Sample daily incident log in field setting  
-- [`regional-risk-scenario.md`](./demo/regional-risk-scenario.md) – Simulated case study of geopolitical tension  
-- [`conflict-zone-riskmap.md`](./demo/conflict-zone-riskmap.md) – Map-based risk classification by sector  
+- [`breach-response-workflow.md`](./demo/breach-response-workflow.md) – Visual outline of how to respond to incidents  
+- [`security-risk-simulation.md`](./demo/security-risk-simulation.md) – Simulated scenario-based risk identification  
 
 ---
 
 ## 🧭 Response Frameworks (`response-frameworks/`)
 
-- [`incident-escalation-guidelines.md`](./response-frameworks/incident-escalation-guidelines.md)  
-- [`post-incident-review-template.md`](./response-frameworks/post-incident-review-template.md)  
-- [`partner-data-handling-protocol.md`](./response-frameworks/partner-data-handling-protocol.md)  
+- [`incident-escalation-guidelines.md`](./response-frameworks/incident-escalation-guidelines.md) – Escalation path for field incidents  
+- [`partner-data-handling-protocol.md`](./response-frameworks/partner-data-handling-protocol.md) – Guidance on protecting partner information  
+- [`post-incident-review-template.md`](./response-frameworks/post-incident-review-template.md) – Template for learning after incidents  
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots (`screenshots/`)
 
-| Description             | Image                                      |
-|-------------------------|--------------------------------------------|
-| 📘 Course Welcome       | ![](./screenshots/disaready-course.png)    |
-| 📚 Curriculum Overview  | ![](./screenshots/disaready-curriculum.png) |
+| Description             | Screenshot                                   |
+|-------------------------|-----------------------------------------------|
+| 📘 Course Introduction   | ![](./screenshots/disaready-course.png)       |
+| 📚 Curriculum Overview   | ![](./screenshots/disaready-curriculum.png)   |
 
 ---
 
 ## 📝 Course Review
 
-This course provides an accessible yet serious overview of risk management principles applied in humanitarian or NGO contexts.
+This course offers essential knowledge for understanding risk in humanitarian and nonprofit work environments. It approaches security with an ethical and people-focused lens.
 
-✅ **What I appreciated**:
-- Practical examples specific to the nonprofit & disaster relief sector  
-- Ethical and people-first framing  
-- Structured content with real-world applicability
+✅ **What I liked**:
+- Contextualized risk models for real field work  
+- Inclusion of humanitarian ethics and cultural sensitivity  
+- Strong balance between theoretical frameworks and practical examples  
 
-📌 **What could be improved**:
-- Include interactive case simulation  
-- Expand on digital security for field teams
+📌 **What could improve**:
+- Include more case-based decision-making  
+- Slightly more focus on digital risk for remote teams  
 
 ---
 
 ## ✍️ Author
 
-**Thành Danh** – Pentester & Cybersecurity Researcher
+**Thành Danh** – Pentester & Cybersecurity Researcher  
 GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)  
-Email: ngvu.thdanh@gmail.com  
+Email: ngvu.thdanh@gmail.com
 
 ---
 
