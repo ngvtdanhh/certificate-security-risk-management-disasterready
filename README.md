@@ -66,7 +66,7 @@ This course provides an accessible yet serious overview of risk management princ
 
 ## ✍️ Author
 
-**Thành Danh** – Cybersecurity Student & NGO Tech Volunteer  
+**Thành Danh** – Pentester & Cybersecurity Researcher
 GitHub: [@ngvtdanhh](https://github.com/ngvtdanhh)  
 Email: ngvu.thdanh@gmail.com  
 
